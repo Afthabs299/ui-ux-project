@@ -199,7 +199,7 @@ h3{
     transition: 0.5s;
 }
 .layer:hover{
-    background: rgba(226, 0, 0, 0.7);
+    background: rgba(255, 132, 0, 0.89);
 
 }
 .layer h3{
