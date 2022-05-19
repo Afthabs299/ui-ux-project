@@ -81,10 +81,10 @@ nav img{
     background:transparent;
     position:relative;
     cursor: pointer;
-    background: red;
+    background: rgb(255, 102, 0);
 }
 .hero-btn:hover{
-    border: 1px solid red;
+    border: 1px solid rgb(255, 102, 0);
     background: black;
     transition: 0.7s;
 }
